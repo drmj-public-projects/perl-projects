@@ -1,0 +1,2 @@
+1|Learn data types in Perl
+1|Build small projects to practice
